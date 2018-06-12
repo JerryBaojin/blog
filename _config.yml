@@ -73,4 +73,4 @@ theme: spfk
 deploy:
   type: git
   repo: https://github.com/FlyingBugger/blog.git
-  branch: master
+  branch: gh-pages
